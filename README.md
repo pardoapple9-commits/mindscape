@@ -21,3 +21,14 @@ Briana Pardo
 ## Estado actual
 
 En desarrollo.
+## Características principales
+
+- Contenido relacionado con Psicología.
+- Experiencias y actividades interactivas.
+- Uso de herramientas digitales.
+- Diseño enfocado en estudiantes.
+- Información organizada de manera sencilla.
+
+## Proyección
+
+El proyecto continuará desarrollándose mediante la incorporación de nuevos contenidos, actividades y funcionalidades interactivas.
